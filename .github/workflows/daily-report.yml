@@ -1,4 +1,4 @@
-.github/workflows/name: Daily AI News Report
+name: Daily AI News Report
 
 on:
   schedule:
